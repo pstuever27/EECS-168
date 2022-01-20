@@ -1,0 +1,5 @@
+# EECS-168
+Labs from EECS 168
+
+NOTE: THESE LABS ARE FOR REFERENCE ONLY. DO NOT COPY WORK FROM THIS REPOSITORY.
+  Do your own work, I believe in you :)
